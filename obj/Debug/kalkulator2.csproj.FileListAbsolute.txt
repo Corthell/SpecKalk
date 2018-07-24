@@ -1,0 +1,18 @@
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\kalkulator2\kalkulator2\obj\Debug\kalkulator2.csprojResolveAssemblyReference.cache
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\kalkulator2\kalkulator2\obj\Debug\kalkulator2.MainForm.resources
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\kalkulator2\kalkulator2\obj\Debug\kalkulator2.csproj.GenerateResource.Cache
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\kalkulator2\kalkulator2\obj\Debug\kalkulator2.Note.resources
+C:\Users\CzesteR\Desktop\kalkulator2\kalkulator2\bin\Debug\kalkulator2.exe.config
+C:\Users\CzesteR\Desktop\kalkulator2\kalkulator2\obj\Debug\kalkulator2.exe
+C:\Users\CzesteR\Desktop\kalkulator2\kalkulator2\obj\Debug\kalkulator2.pdb
+C:\Users\CzesteR\Desktop\kalkulator2\kalkulator2\bin\Debug\kalkulator2.exe
+C:\Users\CzesteR\Desktop\kalkulator2\kalkulator2\bin\Debug\kalkulator2.pdb
+C:\Users\CzesteR\Desktop\kalkulator2\kalkulator2\obj\Debug\kalkulator2.csprojResolveAssemblyReference.cache
+C:\Users\CzesteR\Desktop\kalkulator2\kalkulator2\obj\Debug\kalkulator2.Note.resources
+C:\Users\CzesteR\Desktop\kalkulator2\kalkulator2\obj\Debug\kalkulator2.MainForm.resources
+C:\Users\CzesteR\Desktop\kalkulator2\kalkulator2\obj\Debug\kalkulator2.csproj.GenerateResource.Cache
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\kalkulator2\kalkulator2\bin\Debug\CsR KalK.exe.config
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\kalkulator2\kalkulator2\bin\Debug\CsR KalK.exe
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\kalkulator2\kalkulator2\bin\Debug\CsR KalK.pdb
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\kalkulator2\kalkulator2\obj\Debug\CsR KalK.exe
+C:\Users\mecalux1.1\Documents\SharpDevelop Projects\kalkulator2\kalkulator2\obj\Debug\CsR KalK.pdb
